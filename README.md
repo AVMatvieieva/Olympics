@@ -10,8 +10,9 @@ Datei: Olympische Athleten-Datenanalyse.ipynb
 Beschreibung:
 
 Die Rohdaten aus olympics_cleaned_v4.csv werden in separate Dateien unterteilt: events, athletes, athletes_events und countries.
-![ERM-Schemas Olympics](https://github.com/AVMatvieieva/Olympics/blob/main/images/ERM.png)
+
 Erstellung eines ERM-Schemas zur besseren Datenstrukturierung.
+![ERM-Schemas Olympics](https://github.com/AVMatvieieva/Olympics/blob/main/images/ERM.png)
 
 Datenbereinigung: Entfernung von Duplikaten, Behandlung fehlender Werte und Konvertierung in geeignete Datentypen.
 
