@@ -1,4 +1,5 @@
 # Olympische Spiele 1896-2016: Datenanalyse
+![](https://github.com/AVMatvieieva/Olympics/blob/main/images/501100112_univ_lsr_lg.jpg)
 ### Überblick
 Dieses Projekt analysiert die Olympischen Spiele von 1896 bis 2016 mithilfe von Datenverarbeitung, Datenbankmanagement und statistischer Analyse. Ziel ist es, interessante Erkenntnisse aus den historischen Olympischen Spielen zu gewinnen
 ### Projektstruktur
