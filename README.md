@@ -80,7 +80,7 @@ Dieses Projekt analysiert die Olympischen Spiele von 1896 bis 2016 mithilfe von 
 
 #### 3. 📊 Python-Analyse ausführen: Öffnen Sie Olympic_Analytic.ipynb und führen Sie die Analysen durch.
 
-#### 4. 🎨 Visualisierungen betrachten: Besuchen Sie die Tableau Public-Seite.
+#### 4. 🎨 Visualisierungen betrachten: Besuchen Sie die [Tableau Public-Seite.](https://public.tableau.com/app/profile/anna.matvieieva/viz/DetailsofOlympics1896-2016/Olympics)
 
 ## ✍️ Autor
 
